@@ -1,3 +1,4 @@
+![logo](https://github.com/sayanm3/sayanm3/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sayan Maitra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
